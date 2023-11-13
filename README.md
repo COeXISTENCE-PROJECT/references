@@ -10,9 +10,9 @@ Each section starts with a narrative part, which is expanded gradually and with 
 
 ---
 
-## Research problems
+# Research problems
 
-### Route choice
+## Route choice
 
 > We assume humans are Rational Utility Maximizers (Manski, 1977), thus when they travel they maximize their utility (McFadden, 1980), i.e. in the route choice context, they make subjectively rational choices (Ben-Akiva et al, 1984), or boundedly rational (Xuan and Liu, 2016).
 
@@ -26,7 +26,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 5. K-shortest path search [wiki](https://en.wikipedia.org/wiki/K_shortest_path_routing#:~:text=The%20k%20shortest%20path%20routing,the%20loopless%20k%20shortest%20paths)
    
 
-###  User Equilibrium
+##  User Equilibrium
 
 > Since users are rational utility maximizers, who minimize their travel costs (minimize utility), they adjust their choices to maximize the _expected_ utility.
 > Maybe they somehow converge to the _user equilibrium_ (Wardrop's paraphrase of Nash equilibrium).
@@ -47,23 +47,27 @@ Each section starts with a narrative part, which is expanded gradually and with 
 13. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
 2. D. A. Lazar, E. Bıyık, D. Sadigh, and R. Pedarsani, “Learning how to dynamically route autonomous vehicles on shared roads,” Transportation research part C: emerging technologies, vol. 130, p. 103 258, 2021. [doi](https://doi.org/10.1016/j.trc.2021.103258)
 3. J. Wang, S. Peeta, and X. He, “Multiclass traffic assignment model for mixed traffic flow of human-driven vehicles  and connected and autonomous vehicles,” Transportation Research Part B: Methodological, vol. 126, pp. 139–168,  2019. [paper](https://sites.gatech.edu/peeta/files/2021/01/2019-Wang-Peeta-He-TR-B.pdf)
+4. JOSEPH N. PRASHKER & SHLOMO BEKHOR (2004) Route Choice Models Used in the Stochastic User Equilibrium Problem: A Review, Transport Reviews, 24:4, 437-463, [DOI](https://doi.org/10.1080/0144164042000181707)
+5. New Formulations of the Stochastic User Equilibrium with Logit Route Choice as an Extension of the Deterministic Model [pdf](https://www.researchgate.net/profile/Guido-Gentile/publication/327925599_New_Formulations_of_the_Stochastic_User_Equilibrium_with_Logit_Route_Choice_as_an_Extension_of_the_Deterministic_Model/links/6018a0a345851517ef31e7c5/New-Formulations-of-the-Stochastic-User-Equilibrium-with-Logit-Route-Choice-as-an-Extension-of-the-Deterministic-Model.pdf)
    
+#### Empirical observations and model estimations
+
+1. Arriagada, J., Munizaga, M. A., Guevara, C. A., & Prato, C. (2022). Unveiling route choice strategy heterogeneity from smart card data in a large-scale public transport network. Transportation Research Part C: Emerging Technologies, 134, 103467. [doi](https://doi.org/10.1016/j.trc.2021.103467)
 
 
 
+## Reinforcement learning
 
-### Reinforcement learning
+### papers
 
-#### papers
-
-#### materials and courses
+### materials and courses
 
 1. Sergei Levine Course on [YT](https://www.youtube.com/watch?v=JHrlF10v2Og&list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
 2. RL book by [Sutton]( https://www.google.pl/books/edition/Reinforcement_Learning_second_edition/sWV0DwAAQBAJ?hl=pl&gbpv=1&dq=sutton+barto&printsec=frontcover)
 
-### Microsimulation 
+## Microsimulation 
 
-### Connected autonomous vehicles
+## Connected autonomous vehicles
 
 > Connected Autonomous Vehicles can independenty traverse the urban network without human intervention (Level 5+).
 
@@ -79,7 +83,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 * RL Stable baselines [repo](https://stable-baselines.readthedocs.io/en/master/)
 * [FLOW](https://flow-project.github.io/) simulator for RL - it inspired me a lot during grant writing. It is SUMO + RLLib and the focus is on traffic flow rather than equilibrium, but also very relevant.
   
-
+---
 
 ## Source files
 
