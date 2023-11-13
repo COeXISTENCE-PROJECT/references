@@ -21,10 +21,19 @@
 
   $\forall_{a \in A} q_a * (u_a - U*_a) = 0 $
 
+* Travel time, BPR deterministic model:
+
+ $t_a(q_a) = t^0_a (1 + (q_a / Q_a)^2)$
+
   **Notation**:
 
   * $i$ - agent, traveller, human
   * $I$ - set of all agents
   * $a$ - action, or choice, or arc chosen by traveller
   * $A$ - choice-set, action-space, set of available routes
-  * $c_{i,a}$ - cost of using arc  
+  * $c_{i,a}$ - cost of using arc/route/alternative $a$ by traveller $i$
+  * $t_{i,a}$ - travel time of arc $a$ perceived by traveller $i$
+  * $U$ - utility
+  * $q_a$ - is the flow (number of vehicles using arc)
+* $t^0_a$ - is the free flow speed (with no other vehicles)
+* $Q_a$ - is the capacity (maximal number of vehices)
