@@ -12,6 +12,8 @@ The base is the reference list used in the proposal:  [here](files/full_referenc
 
 ### Route choice
 
+1. 
+
 ### Equilibrium
 
 ### Reinforcement learning
@@ -39,4 +41,5 @@ The base is the reference list used in the proposal:  [here](files/full_referenc
 ## Source files
 
 * [B1_final.pdf](files/B1_final.pdf) - proposal - short version
-* [B2_final.pdf](files/B2_final.pdf) - proposal - short version
+* [B2_final.pdf](files/B2_final.pdf) - proposal - long version
+* [references from proposal](files/full_references_from_proposal.pdf)
