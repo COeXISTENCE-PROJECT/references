@@ -2,6 +2,7 @@
 ----
 
 List of problems that we address within the `COeXISTENCE` project with the relavant literature on them.
+
 The base is the reference list used in the proposal:  [here](files/full_references_from_proposal.pdf)
 
 
