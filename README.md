@@ -14,22 +14,26 @@ Each section starts with a narrative part, which is expanded gradually and with 
 
 ### Route choice
 
-> We assume humans are Rational Utility Maximizers (Manski, 1977), thus when they travel they maximize their utility (McFadden, 1980), i.e. in the route choice context, they make subjectively rational choices (Ben-Akiva et al, 1984), or boundedly rational (Xuan and Liu, 2016), 
+> We assume humans are Rational Utility Maximizers (Manski, 1977), thus when they travel they maximize their utility (McFadden, 1980), i.e. in the route choice context, they make subjectively rational choices (Ben-Akiva et al, 1984), or boundedly rational (Xuan and Liu, 2016). 
 
 1. Manski, Charles F. "The structure of random utility models." Theory and decision 8, no. 3 (1977): 229. [paper](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/BF00133443.pdf&casa_token=iIIBTGiW6sAAAAAA:sU5jZAzd8vLB_uG505C2iH65Am9JCAPJ1Y2Rn8dfzS0h3dCYqb_yfY3-MnmSwyKZzm9jxt_42cw-4dJG)
 
-  
 2. McFadden, Daniel. "Econometric models for probabilistic choice among products." Journal of Business (1980): S13-S29. [paper](https://www.jstor.org/stable/pdf/2352205.pdf?casa_token=tPP6IUW9sSQAAAAA:jPNwc-QOSdozwWo4sBcIAp64w0pCDS2W3VsnE5vDnPBZ1BgRl8lax6O-38aK5FFdR33GW8DTme6tr14mPXrSGVDQeki_jauTStWAyiCKVDJRWYr6XCw)
 3. Ben-Akiva, M., Bergman, M. J., Daly, A. J., & Ramaswamy, R. (1984). Modelling inter urban route choice behaviour. In Papers presented during the Ninth International Symposium on Transportation and Traffic Theory held in Delft the Netherlands, 11-13 July 1984..
 4. Di, Xuan, and Henry X. Liu. "Boundedly rational route choice behavior: A review of models and methodologies." Transportation Research Part B: Methodological 85 (2016): 142-179. [doi](https://doi.org/10.1016/j.trb.2016.01.002)
 5. K-shortest path search [wiki](https://en.wikipedia.org/wiki/K_shortest_path_routing#:~:text=The%20k%20shortest%20path%20routing,the%20loopless%20k%20shortest%20paths)
    
 
-### Equilibrium
+###  User Equilibrium
 
-> We want to assume that the complex social system of urban traffic is in some sense of user equilibrium
+> Since users are rational utility maximizers, who minimize their travel costs (minimize utility), they adjust their choices to maximize the _expected_ utility.
 
 1. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
+2. D. A. Lazar, E. Bıyık, D. Sadigh, and R. Pedarsani, “Learning how to dynamically route autonomous vehicles on shared roads,” Transportation research part C: emerging technologies, vol. 130, p. 103 258, 2021. [doi](https://doi.org/10.1016/j.trc.2021.103258)
+3. J. Wang, S. Peeta, and X. He, “Multiclass traffic assignment model for mixed traffic flow of human-driven vehicles  and connected and autonomous vehicles,” Transportation Research Part B: Methodological, vol. 126, pp. 139–168,  2019. [paper](https://sites.gatech.edu/peeta/files/2021/01/2019-Wang-Peeta-He-TR-B.pdf)
+
+
+
 
 
 ### Reinforcement learning
@@ -55,6 +59,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 ## Software
 
 * Simulator: [SUMO](https://eclipse.dev/sumo/) and Assignment in SUMO [here](https://sumo.dlr.de/docs/Demand/Dynamic_User_Assignment.html)
+* SUMo-RL [repo](https://github.com/LucasAlegre/sumo-rl) - very relevant simulator - it integrates SUMO with RL, yet on the traffic signal control level. We may inspire from that a lot.
 * RL Stable baselines [repo](https://stable-baselines.readthedocs.io/en/master/)
   
 
