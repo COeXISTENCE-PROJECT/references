@@ -26,11 +26,15 @@ Each section starts with a narrative part, which is expanded gradually and with 
 
 ###  User Equilibrium
 
-> Since users are rational utility maximizers, who minimize their travel costs (minimize utility), they adjust their choices to maximize the _expected_ utility.
+> Since users are rational utility maximizers, who minimize their travel costs (minimize utility), they adjust their choices to maximize the _expected_ utility. Maybe they somehow converge to user equilibrium (Wartop's paraphrase of Nash equilibrium. In the deterministic case 
 
-1. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
+1. 4. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
+5. Wartop Equilibruim [wiki](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
+6. Wardrop, J. G. (1952). Road paper. some theoretical aspects of road traffic research. Proceedings of the institution of civil engineers, 1(3), 325-362. [pdf](https://doi.org/10.1680/ipeds.1952.11259)
+7. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
 2. D. A. Lazar, E. Bıyık, D. Sadigh, and R. Pedarsani, “Learning how to dynamically route autonomous vehicles on shared roads,” Transportation research part C: emerging technologies, vol. 130, p. 103 258, 2021. [doi](https://doi.org/10.1016/j.trc.2021.103258)
 3. J. Wang, S. Peeta, and X. He, “Multiclass traffic assignment model for mixed traffic flow of human-driven vehicles  and connected and autonomous vehicles,” Transportation Research Part B: Methodological, vol. 126, pp. 139–168,  2019. [paper](https://sites.gatech.edu/peeta/files/2021/01/2019-Wang-Peeta-He-TR-B.pdf)
+
 
 
 
@@ -59,8 +63,9 @@ Each section starts with a narrative part, which is expanded gradually and with 
 ## Software
 
 * Simulator: [SUMO](https://eclipse.dev/sumo/) and Assignment in SUMO [here](https://sumo.dlr.de/docs/Demand/Dynamic_User_Assignment.html)
-* SUMo-RL [repo](https://github.com/LucasAlegre/sumo-rl) - very relevant simulator - it integrates SUMO with RL, yet on the traffic signal control level. We may inspire from that a lot.
+* SUMO-RL [repo](https://github.com/LucasAlegre/sumo-rl) - very relevant simulator - it integrates SUMO with RL, yet on the traffic signal control level. We may inspire from that a lot.
 * RL Stable baselines [repo](https://stable-baselines.readthedocs.io/en/master/)
+* [FLOW](https://flow-project.github.io/) simulator for RL - it inspired me a lot during grant writing. It is SUMO + RLLib and the focus is on traffic flow rather than equilibrium, but also very relevant.
   
 
 
