@@ -26,12 +26,19 @@ Each section starts with a narrative part, which is expanded gradually and with 
 
 ###  User Equilibrium
 
-> Since users are rational utility maximizers, who minimize their travel costs (minimize utility), they adjust their choices to maximize the _expected_ utility. Maybe they somehow converge to user equilibrium (Wartop's paraphrase of Nash equilibrium. In the deterministic case 
+> Since users are rational utility maximizers, who minimize their travel costs (minimize utility), they adjust their choices to maximize the _expected_ utility.
+> Maybe they somehow converge to the _user equilibrium_ (Wardrop's paraphrase of Nash equilibrium).
+> Such _equilibrium_ may be either deterministic (when travel times and utility formulas are fixed and homogenous) (Wardrop, 1952), or stochastic (when either travel times, or demand or users perception or users taste variations are non-determnistic) (Daganzo and Sheffi, 1997).
+> The travellers experience utilities of the action they have chosen and learn the expected travel times (Bogers et al., 2007).
 
-1. 4. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
+1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
 5. Wartop Equilibruim [wiki](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
 6. Wardrop, J. G. (1952). Road paper. some theoretical aspects of road traffic research. Proceedings of the institution of civil engineers, 1(3), 325-362. [pdf](https://doi.org/10.1680/ipeds.1952.11259)
-7. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
+7. Enide A. I. Bogers, Michel Bierlaire, and Serge P. Hoogendoorn. 2007. Modeling Learning in Route Choice. Transportation Research Record 2014, 1 (2007), 1–8. [pdf](https://doi.org/doi:10.3141/2014-01)
+8. Hazelton, Martin L. "Some remarks on stochastic user equilibrium." Transportation Research Part B: Methodological 32, no. 2 (1998): 101-108. [doi](https://doi.org/10.1016/S0191-2615(97)00015-5)
+9. Daganzo, Carlos F., and Yosef Sheffi. "On stochastic models of traffic assignment." Transportation science 11, no. 3 (1977): 253-274. [pdf](https://pubsonline.informs.org/doi/epdf/10.1287/trsc.11.3.253)
+10. Yang, Hai. "System optimum, stochastic user equilibrium, and optimal link tolls." Transportation science 33, no. 4 (1999): 354-360. [pdf](https://pubsonline.informs.org/doi/epdf/10.1287/trsc.33.4.354)
+11. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
 2. D. A. Lazar, E. Bıyık, D. Sadigh, and R. Pedarsani, “Learning how to dynamically route autonomous vehicles on shared roads,” Transportation research part C: emerging technologies, vol. 130, p. 103 258, 2021. [doi](https://doi.org/10.1016/j.trc.2021.103258)
 3. J. Wang, S. Peeta, and X. He, “Multiclass traffic assignment model for mixed traffic flow of human-driven vehicles  and connected and autonomous vehicles,” Transportation Research Part B: Methodological, vol. 126, pp. 139–168,  2019. [paper](https://sites.gatech.edu/peeta/files/2021/01/2019-Wang-Peeta-He-TR-B.pdf)
 
