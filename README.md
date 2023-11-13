@@ -14,7 +14,9 @@ Each section starts with a narrative part, which is expanded gradually and with 
 
 ### Route choice
 
-> We assume humans are Rational Utility Maximizers (Manski, 1977), thus when they travel they maximize their utility (McFadden, 1980), i.e. in the route choice context, they make subjectively rational choices (Ben-Akiva et al, 1984), or boundedly rational (Xuan and Liu, 2016). 
+> We assume humans are Rational Utility Maximizers (Manski, 1977), thus when they travel they maximize their utility (McFadden, 1980), i.e. in the route choice context, they make subjectively rational choices (Ben-Akiva et al, 1984), or boundedly rational (Xuan and Liu, 2016).
+
+[More detailed sandbox](route_choice.md)
 
 1. Manski, Charles F. "The structure of random utility models." Theory and decision 8, no. 3 (1977): 229. [paper](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/BF00133443.pdf&casa_token=iIIBTGiW6sAAAAAA:sU5jZAzd8vLB_uG505C2iH65Am9JCAPJ1Y2Rn8dfzS0h3dCYqb_yfY3-MnmSwyKZzm9jxt_42cw-4dJG)
 
@@ -29,7 +31,9 @@ Each section starts with a narrative part, which is expanded gradually and with 
 > Since users are rational utility maximizers, who minimize their travel costs (minimize utility), they adjust their choices to maximize the _expected_ utility.
 > Maybe they somehow converge to the _user equilibrium_ (Wardrop's paraphrase of Nash equilibrium).
 > Such _equilibrium_ may be either deterministic (when travel times and utility formulas are fixed and homogenous) (Wardrop, 1952), or stochastic (when either travel times, or demand or users perception or users taste variations are non-determnistic) (Daganzo and Sheffi, 1997).
+>
 > The travellers experience utilities of the action they have chosen and learn the expected travel times (Bogers et al., 2007).
+> Which may be expressed either algoritmhically (to find the equilibrium) or behaviourally, as realistic adaptation and day-to-day learning (Watling and Cantarella, 2016).
 
 1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
 5. Wartop Equilibruim [wiki](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
@@ -38,11 +42,12 @@ Each section starts with a narrative part, which is expanded gradually and with 
 8. Hazelton, Martin L. "Some remarks on stochastic user equilibrium." Transportation Research Part B: Methodological 32, no. 2 (1998): 101-108. [doi](https://doi.org/10.1016/S0191-2615(97)00015-5)
 9. Daganzo, Carlos F., and Yosef Sheffi. "On stochastic models of traffic assignment." Transportation science 11, no. 3 (1977): 253-274. [pdf](https://pubsonline.informs.org/doi/epdf/10.1287/trsc.11.3.253)
 10. Yang, Hai. "System optimum, stochastic user equilibrium, and optimal link tolls." Transportation science 33, no. 4 (1999): 354-360. [pdf](https://pubsonline.informs.org/doi/epdf/10.1287/trsc.33.4.354)
-11. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
+11. Cantarella, Giulio E., and David P. Watling. "A general stochastic process for day-to-day dynamic traffic assignment: Formulation, asymptotic behaviour, and stability analysis." Transportation Research Part B: Methodological 92 (2016): 3-21. [pdf](https://eprints.whiterose.ac.uk/99558/1/Cantarella%20%26%20Watling%20Part%20B%202016.pdf)
+12. Gentile, Guido. "Solving a Dynamic User Equilibrium model based on splitting rates with Gradient Projection algorithms." Transportation Research Part B: Methodological 92 (2016): 120-147. [pdf](https://iris.uniroma1.it/bitstream/11573/899213/1/Gentile_preprint_Dynamic-user_2016.pdf)
+13. Klein, Ido, and Eran Ben-Elia. "Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review." Transportation Research Part C: Emerging Technologies 72 (2016): 10-28. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X16301620?casa_token=XWbhB5f7O6QAAAAA:f5o19RDcbLXSNVQ96-nv60fgMnaRcWIA2-Vfg95r6L6LuoZDGinNsouxH_mOIQHTpa42pr9TqQ)
 2. D. A. Lazar, E. Bıyık, D. Sadigh, and R. Pedarsani, “Learning how to dynamically route autonomous vehicles on shared roads,” Transportation research part C: emerging technologies, vol. 130, p. 103 258, 2021. [doi](https://doi.org/10.1016/j.trc.2021.103258)
 3. J. Wang, S. Peeta, and X. He, “Multiclass traffic assignment model for mixed traffic flow of human-driven vehicles  and connected and autonomous vehicles,” Transportation Research Part B: Methodological, vol. 126, pp. 139–168,  2019. [paper](https://sites.gatech.edu/peeta/files/2021/01/2019-Wang-Peeta-He-TR-B.pdf)
-
-
+   
 
 
 
