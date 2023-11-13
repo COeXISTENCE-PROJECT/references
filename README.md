@@ -36,7 +36,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 > Which may be expressed either algoritmhically (to find the equilibrium) or behaviourally, as realistic adaptation and day-to-day learning (Watling and Cantarella, 2016).
 >
 > This proces, however is never optimal. As we either are _rationalLY inattention_ (Jiang, Fosgerau, 2019).
-> This can also be observed in laboratory experiments (Selten et al. 2007) or from the field observations (Arriagada et al., 2022).
+> This can also be observed in laboratory experiments (Selten et al. 2007) or from the field observations (Arriagada et al., 2022) or (Ramirez, Leclercq et al., 2021)
 
 1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
 5. Wartop Equilibruim [wiki](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
@@ -59,6 +59,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 1. Arriagada, J., Munizaga, M. A., Guevara, C. A., & Prato, C. (2022). Unveiling route choice strategy heterogeneity from smart card data in a large-scale public transport network. Transportation Research Part C: Emerging Technologies, 134, 103467. [doi](https://doi.org/10.1016/j.trc.2021.103467)
 2. Swiss OD matrices and model estimations [doi](https://doi.org/10.3929/ethz-b-000023520)
 3. Selten, Reinhard, Thorsten Chmura, Thomas Pitz, Sebastian Kube, and Michael Schreckenberg. "Commuters route choice behaviour." Games and Economic Behavior 58, no. 2 (2007): 394-406. [doi](https://doi.org/10.1016/j.geb.2006.03.012)
+4. Ramirez, Humberto Gonzalez, Ludovic Leclercq, Nicolas Chiabaut, Cécile Becarie, and Jean Krug. "Travel time and bounded rationality in travellers’ route choice behaviour: A computer route choice experiment." Travel Behaviour and Society 22 (2021): 59-83. [doi](https://doi.org/10.1016/j.tbs.2020.06.011)
 
 
 ## Reinforcement learning
