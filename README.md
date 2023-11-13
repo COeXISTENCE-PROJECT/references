@@ -34,6 +34,9 @@ Each section starts with a narrative part, which is expanded gradually and with 
 >
 > The travellers experience utilities of the action they have chosen and learn the expected travel times (Bogers et al., 2007).
 > Which may be expressed either algoritmhically (to find the equilibrium) or behaviourally, as realistic adaptation and day-to-day learning (Watling and Cantarella, 2016).
+>
+> This proces, however is never optimal. As we either are _rationalLY inattention_ (Jiang, Fosgerau, 2019).
+> This can also be observed in laboratory experiments (Selten et al. 2007) or from the field observations (Arriagada et al., 2022).
 
 1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
 5. Wartop Equilibruim [wiki](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
@@ -49,14 +52,20 @@ Each section starts with a narrative part, which is expanded gradually and with 
 3. J. Wang, S. Peeta, and X. He, “Multiclass traffic assignment model for mixed traffic flow of human-driven vehicles  and connected and autonomous vehicles,” Transportation Research Part B: Methodological, vol. 126, pp. 139–168,  2019. [paper](https://sites.gatech.edu/peeta/files/2021/01/2019-Wang-Peeta-He-TR-B.pdf)
 4. JOSEPH N. PRASHKER & SHLOMO BEKHOR (2004) Route Choice Models Used in the Stochastic User Equilibrium Problem: A Review, Transport Reviews, 24:4, 437-463, [DOI](https://doi.org/10.1080/0144164042000181707)
 5. New Formulations of the Stochastic User Equilibrium with Logit Route Choice as an Extension of the Deterministic Model [pdf](https://www.researchgate.net/profile/Guido-Gentile/publication/327925599_New_Formulations_of_the_Stochastic_User_Equilibrium_with_Logit_Route_Choice_as_an_Extension_of_the_Deterministic_Model/links/6018a0a345851517ef31e7c5/New-Formulations-of-the-Stochastic-User-Equilibrium-with-Logit-Route-Choice-as-an-Extension-of-the-Deterministic-Model.pdf)
+6. Gege Jiang, Mogens Fosgerau, Hong K. Lo, Route choice, travel time variability, and rational inattention, Transportation Research Part B: Methodological, [doi](https://www.sciencedirect.com/science/article/abs/pii/S0191261518311433)
    
 #### Empirical observations and model estimations
 
 1. Arriagada, J., Munizaga, M. A., Guevara, C. A., & Prato, C. (2022). Unveiling route choice strategy heterogeneity from smart card data in a large-scale public transport network. Transportation Research Part C: Emerging Technologies, 134, 103467. [doi](https://doi.org/10.1016/j.trc.2021.103467)
-
+2. Swiss OD matrices and model estimations [doi](https://doi.org/10.3929/ethz-b-000023520)
+3. Selten, Reinhard, Thorsten Chmura, Thomas Pitz, Sebastian Kube, and Michael Schreckenberg. "Commuters route choice behaviour." Games and Economic Behavior 58, no. 2 (2007): 394-406. [doi](https://doi.org/10.1016/j.geb.2006.03.012)
 
 
 ## Reinforcement learning
+
+> The human behaviour in Traffic highly resembles the Reinforcement Loop.
+
+ 1. Fangfang Wei, Shoufeng Ma, Ning Jia, "A Day-to-Day Route Choice Model Based on Reinforcement Learning", Mathematical Problems in Engineering, vol. 2014, Article ID 646548, 19 pages, 2014. [doi](https://doi.org/10.1155/2014/646548)
 
 ### papers
 
