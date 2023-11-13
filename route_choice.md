@@ -17,15 +17,19 @@
  
     $p_{i,a} = exp( \mu U_{i,a}) / \sum_{a' \in A} U_{a,i}$
 
-* Equilibrium (deterministic):
+* Equilibrium conditions (deterministic):
 
   $\forall_{a \in A} q_a * (u_a - U*_a) = 0 $
 
 * Travel time, BPR deterministic model:
 
- $t_a(q_a) = t^0_a (1 + (q_a / Q_a)^2)$
+  $t_a(q_a) = t^0_a (1 + (q_a / Q_a)^2)$
 
-  **Notation**:
+* Exponential smoothing (learning):
+
+  $E(t_{i,a,\tau})=\alpha  \hat{t} + (1-\alpha) E(t_{i,a,\tau})$ 
+
+**Notation**:
 
   * $i$ - agent, traveller, human
   * $I$ - set of all agents
@@ -37,3 +41,5 @@
   * $q_a$ - is the flow (number of vehicles using arc)
 * $t^0_a$ - is the free flow speed (with no other vehicles)
 * $Q_a$ - is the capacity (maximal number of vehices)
+* $E(t_{i,a,\tau}$ - expected time at arc a at day $\tau$ by traveller $i$
+* $\hat{t}$ - latest experienced travel time
