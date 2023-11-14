@@ -23,7 +23,8 @@ Each section starts with a narrative part, which is expanded gradually and with 
 2. McFadden, Daniel. "Econometric models for probabilistic choice among products." Journal of Business (1980): S13-S29. [paper](https://www.jstor.org/stable/pdf/2352205.pdf?casa_token=tPP6IUW9sSQAAAAA:jPNwc-QOSdozwWo4sBcIAp64w0pCDS2W3VsnE5vDnPBZ1BgRl8lax6O-38aK5FFdR33GW8DTme6tr14mPXrSGVDQeki_jauTStWAyiCKVDJRWYr6XCw)
 3. Ben-Akiva, M., Bergman, M. J., Daly, A. J., & Ramaswamy, R. (1984). Modelling inter urban route choice behaviour. In Papers presented during the Ninth International Symposium on Transportation and Traffic Theory held in Delft the Netherlands, 11-13 July 1984..
 4. Di, Xuan, and Henry X. Liu. "Boundedly rational route choice behavior: A review of models and methodologies." Transportation Research Part B: Methodological 85 (2016): 142-179. [doi](https://doi.org/10.1016/j.trb.2016.01.002)
-5. K-shortest path search [wiki](https://en.wikipedia.org/wiki/K_shortest_path_routing#:~:text=The%20k%20shortest%20path%20routing,the%20loopless%20k%20shortest%20paths)
+5. Zhu S, Levinson D. Do people use the shortest path? An empirical test of Wardrop’s first principle. PloS one. 2015; 10(8):e0134322. [doi[(https://doi.org/10.1371/journal.pone.0134322)
+6. K-shortest path search [wiki](https://en.wikipedia.org/wiki/K_shortest_path_routing#:~:text=The%20k%20shortest%20path%20routing,the%20loopless%20k%20shortest%20paths)
    
 
 ##  User Equilibrium
