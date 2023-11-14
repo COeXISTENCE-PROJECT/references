@@ -43,3 +43,12 @@
 * $Q_a$ - is the capacity (maximal number of vehices)
 * $E(t_{i,a,\tau}$ - expected time at arc a at day $\tau$ by traveller $i$
 * $\hat{t}$ - latest experienced travel time
+
+----
+
+## Paper notes:
+
+In [Mehmet Yildirimoglu](https://doi.org/10.1371/journal.pone.0196997) they observe the flow on the network to verify hypothesis on the stable point equilibrium:
+
+<img width="887" alt="image" src="https://github.com/COeXISTENCE-PROJECT/references/assets/20555451/bebc1807-9d8d-4499-8a9a-2f8acd34036d">
+
