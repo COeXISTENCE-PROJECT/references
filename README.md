@@ -40,7 +40,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 > This can also be observed in laboratory experiments (Selten et al. 2007) or from the field observations (Arriagada et al., 2022) or (Ramirez, Leclercq et al., 2021). (Yildirimoglu, 2108) evaluates 20k tracks of Shenzen taxis to veriy equilibrium.
 
 1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
-5. Wartop Equilibruim [wiki](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
+5. Wardrop Equilibruim [wiki](https://en.wikipedia.org/wiki/John_Glen_Wardrop)
 6. Wardrop, J. G. (1952). Road paper. some theoretical aspects of road traffic research. Proceedings of the institution of civil engineers, 1(3), 325-362. [pdf](https://doi.org/10.1680/ipeds.1952.11259)
 7. Enide A. I. Bogers, Michel Bierlaire, and Serge P. Hoogendoorn. 2007. Modeling Learning in Route Choice. Transportation Research Record 2014, 1 (2007), 1–8. [pdf](https://doi.org/doi:10.3141/2014-01)
 8. Hazelton, Martin L. "Some remarks on stochastic user equilibrium." Transportation Research Part B: Methodological 32, no. 2 (1998): 101-108. [doi](https://doi.org/10.1016/S0191-2615(97)00015-5)
