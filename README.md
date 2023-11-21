@@ -36,7 +36,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 > The travellers experience utilities of the action they have chosen and learn the expected travel times (Bogers et al., 2007).
 > Which may be expressed either algoritmhically (to find the equilibrium) or behaviourally, as realistic adaptation and day-to-day learning (Watling and Cantarella, 2016).
 >
-> This proces, however is never optimal. As we either are _rationalLY inattention_ (Jiang, Fosgerau, 2019).
+> This proces, however is never optimal. As we either are _rationalLY inattentive_ (Jiang, Fosgerau, 2019).
 > This can also be observed in laboratory experiments (Selten et al. 2007) or from the field observations (Arriagada et al., 2022) or (Ramirez, Leclercq et al., 2021). (Yildirimoglu, 2108) evaluates 20k tracks of Shenzen taxis to veriy equilibrium.
 
 1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
@@ -54,7 +54,8 @@ Each section starts with a narrative part, which is expanded gradually and with 
 4. JOSEPH N. PRASHKER & SHLOMO BEKHOR (2004) Route Choice Models Used in the Stochastic User Equilibrium Problem: A Review, Transport Reviews, 24:4, 437-463, [DOI](https://doi.org/10.1080/0144164042000181707)
 5. New Formulations of the Stochastic User Equilibrium with Logit Route Choice as an Extension of the Deterministic Model [pdf](https://www.researchgate.net/profile/Guido-Gentile/publication/327925599_New_Formulations_of_the_Stochastic_User_Equilibrium_with_Logit_Route_Choice_as_an_Extension_of_the_Deterministic_Model/links/6018a0a345851517ef31e7c5/New-Formulations-of-the-Stochastic-User-Equilibrium-with-Logit-Route-Choice-as-an-Extension-of-the-Deterministic-Model.pdf)
 6. Gege Jiang, Mogens Fosgerau, Hong K. Lo, Route choice, travel time variability, and rational inattention, Transportation Research Part B: Methodological, [doi](https://www.sciencedirect.com/science/article/abs/pii/S0191261518311433)
-
+7. Matějka, F., & McKay, A. (2015). Rational Inattention to Discrete Choices: A New Foundation for the Multinomial Logit Model. The American Economic Review, 105(1), 272–298. http://www.jstor.org/stable/43497060  (mathematical derivation of the rational inattention model in the case of discrete choice)
+8. Andrew Caplin, Mark Dean, John Leahy, Rational Inattention, Optimal Consideration Sets, and Stochastic Choice, The Review of Economic Studies, Volume 86, Issue 3, May 2019, Pages 1061–1094, https://doi.org/10.1093/restud/rdy037
    
 #### Empirical observations and model estimations
 
