@@ -36,7 +36,8 @@ Each section starts with a narrative part, which is expanded gradually and with 
 > The travellers experience utilities of the action they have chosen and learn the expected travel times (Bogers et al., 2007).
 > Which may be expressed either algoritmhically (to find the equilibrium) or behaviourally, as realistic adaptation and day-to-day learning (Watling and Cantarella, 2016).
 >
-> This proces, however is never optimal. As we either are _rationalLY inattentive_ (Jiang, Fosgerau, 2019).
+> This proces, however is never optimal. As we either are _rationalLY inattentive_ (Jiang, Fosgerau, 2019). A rationally inattentive agent has abundance of information, which she/he cannot process and so chooses which pieces of information to process. In doing so, the agent optimizes (the expected utility - cost of information). The cost of information is given by change of information (Shannon) entropy. This model could be useful in situations where there is a rich municipal transportation information source, which drivers can readily use.  
+> A comprehensive basic review of the rational inattention theory (done for the European Central Bank?) can be found in (Maćkowiak, Matějka, Wiederholt, 2023). For mathematical derivation in case of discrete choice, see (Matějka and McKay, 2015).
 > This can also be observed in laboratory experiments (Selten et al. 2007) or from the field observations (Arriagada et al., 2022) or (Ramirez, Leclercq et al., 2021). (Yildirimoglu, 2108) evaluates 20k tracks of Shenzen taxis to veriy equilibrium.
 
 1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
@@ -56,6 +57,8 @@ Each section starts with a narrative part, which is expanded gradually and with 
 6. Gege Jiang, Mogens Fosgerau, Hong K. Lo, Route choice, travel time variability, and rational inattention, Transportation Research Part B: Methodological, [doi](https://www.sciencedirect.com/science/article/abs/pii/S0191261518311433)
 7. Matějka, F., & McKay, A. (2015). Rational Inattention to Discrete Choices: A New Foundation for the Multinomial Logit Model. The American Economic Review, 105(1), 272–298. http://www.jstor.org/stable/43497060  (mathematical derivation of the rational inattention model in the case of discrete choice. Interestingly, a kind of multinomial logit model is a consequence, however it seem not to suffer from the blue bus-red bus paradox)
 8. Andrew Caplin, Mark Dean, John Leahy, Rational Inattention, Optimal Consideration Sets, and Stochastic Choice, The Review of Economic Studies, Volume 86, Issue 3, May 2019, Pages 1061–1094, https://doi.org/10.1093/restud/rdy037
+9. Maćkowiak, Bartosz, Filip Matějka, and Mirko Wiederholt. 2023. "Rational Inattention: A Review." Journal of Economic Literature, 61 (1): 226-73.
+DOI: 10.1257/jel.20211524, pdf: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2570~a3979fbfa5.en.pdf.
    
 #### Empirical observations and model estimations
 
