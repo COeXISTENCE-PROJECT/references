@@ -37,7 +37,8 @@ Each section starts with a narrative part, which is expanded gradually and with 
 > Which may be expressed either algoritmhically (to find the equilibrium) or behaviourally, as realistic adaptation and day-to-day learning (Watling and Cantarella, 2016).
 >
 > This proces, however is never optimal. As we either are _rationalLY inattentive_ (Jiang, Fosgerau, 2019). A rationally inattentive agent has abundance of information, which she/he cannot process and so chooses which pieces of information to process. In doing so, the agent optimizes (the expected utility - cost of information). The cost of information is given by change of information (Shannon) entropy. This model could be useful in situations where there is a rich transportation information source, which drivers can readily use.  
-> A comprehensive basic review of the rational inattention theory (done for the European Central Bank?) can be found in (Maćkowiak, Matějka, Wiederholt, 2023). For mathematical derivation in case of discrete choice, see (Matějka and McKay, 2015).
+> A comprehensive basic review of the rational inattention theory (done for the European Central Bank?) can be found in (Maćkowiak, Matějka, Wiederholt, 2023). For mathematical derivation in case of discrete choice, see (Matějka and McKay, 2015). An even more general result, linking discrete choice and rational inattention (giving rise not only to MNL) was obtained in (Fosgerau et al., 2020)
+> 
 > This can also be observed in laboratory experiments (Selten et al. 2007) or from the field observations (Arriagada et al., 2022) or (Ramirez, Leclercq et al., 2021). (Yildirimoglu, 2108) evaluates 20k tracks of Shenzen taxis to veriy equilibrium.
 
 1. Nash Equilibrium [wiki](https://en.wikipedia.org/wiki/Nash_equilibrium)
@@ -59,6 +60,7 @@ Each section starts with a narrative part, which is expanded gradually and with 
 8. Andrew Caplin, Mark Dean, John Leahy, Rational Inattention, Optimal Consideration Sets, and Stochastic Choice, The Review of Economic Studies, Volume 86, Issue 3, May 2019, Pages 1061–1094, https://doi.org/10.1093/restud/rdy037
 9. Maćkowiak, Bartosz, Filip Matějka, and Mirko Wiederholt. 2023. "Rational Inattention: A Review." Journal of Economic Literature, 61 (1): 226-73.
 DOI: 10.1257/jel.20211524, pdf: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2570~a3979fbfa5.en.pdf.
+10. Fosgerau, M., Melo, E., de Palma, A. and Shum, M. (2020), DISCRETE CHOICE AND RATIONAL INATTENTION: A GENERAL EQUIVALENCE RESULT. International Economic Review, 61: 1569-1589. https://doi.org/10.1111/iere.12469
    
 #### Empirical observations and model estimations
 
